@@ -1,0 +1,33 @@
+body {
+  background-image: url(image/favicon-resume.png);
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.mainPhoto {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.contactme {
+  font-style:normal;
+  font-family:sans-serif;
+}
+
+.workExp {
+  padding-left: 50px; 
+  padding-right: 50px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: rgb(10, 167, 167);
+}
+
+.skills {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: rgb(10, 167, 167);
+}
+
